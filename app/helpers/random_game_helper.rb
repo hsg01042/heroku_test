@@ -1,0 +1,2 @@
+module RandomGameHelper
+end
